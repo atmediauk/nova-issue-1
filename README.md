@@ -15,6 +15,6 @@ Without hard refreshing:
 - Now hard refresh the page and it (correctly) is no longer there.
 
 Looking at the nova api request for the POST resource it is the correct policy data but has no impact on the front end. that is, until you hard refresh.
-![Nova policy does not match actions](https://jmp.sh/g3AQw1h)
+![Nova policy does not match actions]:(https://jmp.sh/g3AQw1h)
 
 Thank you for your help :)
